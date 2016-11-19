@@ -1,0 +1,16 @@
+<!--
+  ~  Copyright (c) 2016 Jalilur Rahman. All Rights Reserved.
+  ~   <p>
+  ~   Save to the extent permitted by law, you may not use, copy, modify,
+  ~    distribute or create derivative works of this material or any part
+  ~    of it without the prior written consent of Jalilur Rahman.
+  ~    <p>
+  ~    The above copyright notice and this permission notice shall be included in
+  ~    all copies or substantial portions of the Software.
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
